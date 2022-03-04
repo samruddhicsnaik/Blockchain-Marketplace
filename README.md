@@ -21,6 +21,7 @@ Client side website created with Web3.js and React.js so that users can talk to 
 ![image](https://user-images.githubusercontent.com/93287801/156743891-b6e2c5f5-495d-4a86-85e1-c952b303e07c.png)
 
  
+ 
 Switch to Seller account
 
 ![image](https://user-images.githubusercontent.com/93287801/156743948-abd7dcf4-a2d5-4d86-9c30-e52026c7908a.png)
@@ -28,6 +29,7 @@ Switch to Seller account
 ![image](https://user-images.githubusercontent.com/93287801/156743986-148a8cf1-b615-48f4-99cd-668286f2b97a.png)
 
  
+ 
  
 Add Product
 
@@ -42,15 +44,18 @@ Confirm Transaction
 
  
  
+ 
 Transaction confirmed
 
 ![image](https://user-images.githubusercontent.com/93287801/156744087-f93ec808-13e5-46b6-8782-801dbf154c68.png)
 
 
 
+
 Product added
 
 ![image](https://user-images.githubusercontent.com/93287801/156744076-bb1ae0ae-7efe-4fc2-aa2f-9ed81470b58f.png)
+
 
 
  
@@ -60,11 +65,13 @@ Few ethers consumed for transactions
 
 
 
+
 Add few more products
 
 ![image](https://user-images.githubusercontent.com/93287801/156744146-fb525215-91c5-4220-a5f2-700dcc0a789d.png)
 
  
+ 
  
 Switch to Buyer account
 
@@ -79,9 +86,11 @@ Buy product
 
  
  
+ 
 Confirm transaction
  
 ![image](https://user-images.githubusercontent.com/93287801/156744191-e8f64d36-c6ce-4ece-ac88-d169ccbc5994.png)
+
 
 
 
@@ -91,6 +100,7 @@ Product now belongs to buyer
 
 
  
+ 
 Ethers are deducted from Buyer account and added to Seller account
 
 ![image](https://user-images.githubusercontent.com/93287801/156744233-48a3df98-4d60-49e9-aa5d-563e6aa2d9bd.png)
